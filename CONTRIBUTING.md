@@ -46,7 +46,7 @@
 
 This project welcomes contributions and suggestions. Contributions require you
 to agree to a
-[Contributor License Agreement (CLA)](https://cla-assistant.io/ORG/REPOS)
+[Contributor License Agreement (CLA)](https://cla-assistant.io/KhronosGroup/glTF-Asset-Generator)
 declaring that you have the right to, and actually do, grant the rights to use
 your contribution.
 
